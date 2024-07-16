@@ -1,3 +1,4 @@
 torch>=1.4.0
 torchvision>=0.5.0
 pyyaml
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
